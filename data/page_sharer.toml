@@ -27,7 +27,7 @@
 
 [[buttons]]
   id = "linkedin"
-  url = "https://www.linkedin.com/in/dantwili/"
+  url = "https://www.linkedin.com/in/dantwili"
   title = "LinkedIn"
   icon_pack = "fab"
   icon = "linkedin-in"
