@@ -58,6 +58,6 @@ highlight_name: true
 ---
 <div align="justify">
 Hi there! My name is Dan Twili (rhymes with 'Billy'). I'm an incoming PhD student studying statistics. Before pursuing a PhD, I graduated from Rutgers University with a double major in mathematics and computer science. I'm broadly interested in machine learning theory and causal inference. My previous research focused on machine learning fairness in the context of linear regression.
-
+  
 I'm grateful to be a GEM Fellow with sponsorship through IBM. If you are interested in research, please feel free to email me.
 </div>
